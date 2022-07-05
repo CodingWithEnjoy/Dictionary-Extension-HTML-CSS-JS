@@ -1,0 +1,109 @@
+@font-face {
+    src: url("Inter-Medium.ttf");
+    font-family: inter1;
+}
+
+@font-face {
+    src: url("timesbd.ttf");
+    font-family: timesbd1;
+}
+#efrgethy {
+    user-select: none !important;
+    font-size: 1rem !important;
+    width: 400px !important;
+    min-height: 100px !important;
+    box-shadow: rgba(0, 0, 0, 0.18) 0 5px 10px !important;
+    border-radius: 10px !important;
+    color: #3d3d3d !important;
+    display: none;
+    background-color: white !important;
+    position: fixed !important;
+    bottom: 20px !important;
+    z-index: 100000 !important;
+    right: 20px !important;
+    border: rgba(0, 0, 0, 0.2) solid 1px !important;
+}
+#efrgethy a{
+    text-decoration: unset!important;
+    color: #0076ff!important;
+}
+#efrgethy, #efrgethy * {
+    direction: ltr!important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Inter1, sans-serif !important;
+}
+
+#dcvfbnsu {
+    padding: 10px 15px !important;
+    border-bottom: rgba(0, 0, 0, 0.2) solid 1px !important;
+}
+
+#fwthyjmu {
+    position: absolute !important;
+    right: 15px !important;
+    top: 12px!important;
+    display: inline-block;
+    color: #979797 !important;
+}
+
+#vrbnyumk {
+    padding: 10px 15px !important;
+    padding-bottom: 10px !important;
+}
+
+#dcdfvbyn{
+    display: block!important;
+    padding-top: 8px!important;
+}
+#efrgethy p {
+    display: block;
+    font-size: 14px !important;
+}
+
+#efrgethy p span {
+    color: #929292 !important;
+}
+
+#efrgethy p span b {
+    font-weight: unset !important;
+    color: #0076ff !important;
+}
+
+#xcdfvbyn {
+    text-transform: capitalize!important;
+    border-radius: 5px !important;
+    position: relative!important;
+bottom: 5px!important;
+bottom: 5px!important;
+    top: 5px!important;
+    border: #d3d3d3 solid 1px !important;
+    padding: 10px 15px!important;
+}
+#xcdfvbyn{
+    display: block;
+}
+#xcdfvbyn span {
+    text-transform: capitalize!important;
+    font-family: "timesbd" !important;
+    font-weight: 900!important;
+    font-style: italic!important;
+}
+
+#dfvetbyn {
+    width: 100% !important;
+    margin-top: 10px !important;
+
+}
+
+#bgdernum {
+    font-weight: 700 !important;
+}
+
+#vrbnyumk p {
+    margin-bottom: 5px !important;
+}
+
+#vrbnyumk p:last-child {
+    margin-bottom: 0 !important;
+}

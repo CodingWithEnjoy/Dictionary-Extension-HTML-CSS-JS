@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "dicit",
+  "version": "0.1.0",
+  "description": "dictionary for non-english users",
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "activeTab",
+    "storage"
+  ],
+  "icons": {
+    "16": "Picture2.png",
+    "48": "Picture1.png",
+    "128": "Picture1.png"
+  },
+  "content_scripts": [{
+    "match_about_blank": true,
+    "matches": [
+      "<all_urls>"
+    ],
+    "css": ["style.css"],
+    "js": ["script.js"]
+  }]
+}
