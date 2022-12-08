@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "dicit",
+  "name": "diction",
   "version": "0.1.0",
   "description": "dictionary for non-english users",
   "permissions": [
