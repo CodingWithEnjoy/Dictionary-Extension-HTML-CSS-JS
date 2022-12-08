@@ -35,7 +35,7 @@ document.body.innerHTML += '<div id="efrgethy">\n' +
     '        <p class="hf5dfgbh" id="xcdfvbyn">example : <span id="ewfreghj"></span></p>\n' +
     '        <p id="dcdfvbyn">open in <a id="dcadvbyn">wikipedia</a></p>\n' +
     '        <p>search on <a id="vgbynduu">web</a></p>\n' +
-    '<small style="position: absolute;right:15px;bottom: 15px;font-size: 13px!important;color: #9fa0a0">dic by dicit</small>' +
+    '<small style="position: absolute;right:15px;bottom: 15px;font-size: 13px!important;color: #9fa0a0">dic by diction</small>' +
     '    </div>\n' +
     '</div>';
 let b = "";
