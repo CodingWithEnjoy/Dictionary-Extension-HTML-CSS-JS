@@ -7,6 +7,7 @@
     src: url("timesbd.ttf");
     font-family: timesbd1;
 }
+
 #efrgethy {
     user-select: none !important;
     font-size: 1rem !important;
@@ -23,10 +24,12 @@
     right: 20px !important;
     border: rgba(0, 0, 0, 0.2) solid 1px !important;
 }
+
 #efrgethy a{
-    text-decoration: unset!important;
-    color: #0076ff!important;
+    text-decoration: unset !important;
+    color: #0076ff !important;
 }
+
 #efrgethy, #efrgethy * {
     direction: ltr!important;
     margin: 0 !important;
@@ -54,8 +57,9 @@
 
 #dcdfvbyn{
     display: block!important;
-    padding-top: 8px!important;
+    padding-top: 8px !important;
 }
+
 #efrgethy p {
     display: block;
     font-size: 14px !important;
@@ -71,23 +75,25 @@
 }
 
 #xcdfvbyn {
-    text-transform: capitalize!important;
+    text-transform: capitalize !important;
     border-radius: 5px !important;
-    position: relative!important;
-bottom: 5px!important;
-bottom: 5px!important;
-    top: 5px!important;
+    position: relative !important;
+    bottom: 5px !important;
+    bottom: 5px !important;
+    top: 5px !important;
     border: #d3d3d3 solid 1px !important;
-    padding: 10px 15px!important;
+    padding: 10px 15px !important;
 }
+
 #xcdfvbyn{
     display: block;
 }
+
 #xcdfvbyn span {
-    text-transform: capitalize!important;
+    text-transform: capitalize !important;
     font-family: "timesbd" !important;
-    font-weight: 900!important;
-    font-style: italic!important;
+    font-weight: 900 !important;
+    font-style: italic !important;
 }
 
 #dfvetbyn {
